@@ -1,0 +1,7 @@
+# Release archives and local environment files are not source files.
+*.zip
+.env
+.env.*
+.DS_Store
+Thumbs.db
+__pycache__/
